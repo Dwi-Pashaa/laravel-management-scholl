@@ -1,6 +1,6 @@
 ## Penggunan Aplikasi
 
-buka direktori project di terminal anda lalu masuk ke direktori folder LuxBliss Vogue dan ketikan kode di bawah ini
+buka direktori project di terminal anda lalu masuk ke direktori folder aplikasi dan ketikan kode di bawah ini
 
 ```php
 cp .env.example .env
